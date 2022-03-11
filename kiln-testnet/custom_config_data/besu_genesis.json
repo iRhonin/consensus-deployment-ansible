@@ -13,7 +13,7 @@
     "berlinBlock": 0,
     "londonBlock": 0,
     "preMergeForkBlock": 1000,
-    "terminalTotalDifficulty": 1000000000000
+    "terminalTotalDifficulty": 2000000000000
   },
   "alloc": {
     "0x0000000000000000000000000000000000000000": {

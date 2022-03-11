@@ -19,3 +19,4 @@ reverse_proxy.yml
 dshackle.yml
 beacon_data
 execution_data
+*.swp
